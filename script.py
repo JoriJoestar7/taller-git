@@ -6,7 +6,7 @@
 
 def main ():
     nombre = input("Como te llamas? ")
-    print("Hola", nombre, "habla o pe serrano, a lo bien ")
+    print("Hola", nombre, "habla o pe serrano, a lo bien miau miau")
 
 if __name__ == "__main__":
     main()
